@@ -1,0 +1,21 @@
+title: Projet
+pages: true
+files: true
+  fields:
+    caption:
+      label: Caption
+      type: textarea
+fields:
+  title:
+    label: Titre
+    type:  text
+  top_image:
+    label: Image principale
+    type:  image
+  text:
+    label: Texte
+    type:  textarea
+  infos:
+    label: Informations
+    type:  textarea
+

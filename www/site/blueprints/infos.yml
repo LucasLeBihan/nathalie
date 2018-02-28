@@ -1,0 +1,40 @@
+title: Infos
+pages: true
+files: true
+  fields:
+    caption:
+      label: Caption
+      type: textarea
+fields:
+  title:
+    label: Titre
+    type:  text
+  cur:
+    label: Cursus
+    type: structure
+    style: table
+    entry: >
+      {{date}}<br />
+      {{text}}
+    fields:
+      date:
+        label: Date
+        type: text
+      text:
+        label: Texte
+        type: text
+  expos:
+    label: Expositions
+    type: structure
+    style: table
+    entry: >
+      {{datea}}<br />
+      {{texta}}
+    fields:
+      datea:
+        label: Date
+        type: text
+      texta:
+        label: Texte
+        type: text
+

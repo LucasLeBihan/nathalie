@@ -1,0 +1,51 @@
+Title: Informations
+
+----
+
+Top-image: 
+
+----
+
+Text: 
+
+----
+
+Infos: 
+
+----
+
+Cursus: 
+
+##2017
+Graphiste au sein de la maison JOUR/NÉE
+
+##2016-2017
+Master de design en recherche en résidence au Mobilier National
+
+##2015
+Graphiste auprès de la créatrice londonienne Sadie Williams
+
+----
+
+Expos: 
+
+- 
+  datea: "2018"
+  texta: Le langage des fleurs
+- 
+  datea: "2017"
+  texta: |
+    Présentation de "La Rance et la Vilaine" lors de l'exposition "Mille lieues"
+
+----
+
+Cur: 
+
+- 
+  date: "2017"
+  text: Graphiste au sein de la maison JOUR/NÉ
+- 
+  date: 2016-2017
+  text: >
+    Master de design en recherche en
+    résidence au Mobilier National
